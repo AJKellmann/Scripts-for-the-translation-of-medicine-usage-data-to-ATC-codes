@@ -1,0 +1,17 @@
+SPARQL Endpoint:
+http://nl.dbpedia.org/sparql/
+
+Query:
+
+select distinct 
+?a as ?Resource str(?label) as ?Name 
+CONCAT(str(?prefix), str(?suffix)) as ?ATC 
+CONCAT( "http://purl.bioontology.org/ontology/UATC/", str(?prefix), str(?suffix)) as ?URI 
+str(?merknamen) as ?Merknamen 
+where { 
+	?a <http://nl.dbpedia.org/property/atcPrefix> ?prefix. 
+	?a rdf:type dbpedia-owl:Drug. 
+	OPTIONAL {?a rdfs:label ?label} 
+	OPTIONAL {?a <http://nl.dbpedia.org/property/atcSuffix> ?suffix.}
+	OPTIONAL {?a <http://nl.dbpedia.org/property/merknamen> ?merknamen.} 
+} 

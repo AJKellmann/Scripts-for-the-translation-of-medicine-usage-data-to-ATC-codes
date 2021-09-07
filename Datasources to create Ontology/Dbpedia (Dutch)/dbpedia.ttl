@@ -1,0 +1,689 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://nl.dbpedia.org/resource/3,4-diaminopyridine> rdfs:label "3,4-diaminopyridine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N07XX05> .
+
+<http://nl.dbpedia.org/resource/Abacavir/dolutegravir/lamivudine> rdfs:label "abacavir/dolutegravir/lamivudine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J05AR13> .
+
+<http://nl.dbpedia.org/resource/Acamprosaat> rdfs:label "acamprosaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N07BB03> .
+
+<http://nl.dbpedia.org/resource/Acetylcysteïne> rdfs:label "acetylcysteïne" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R05CB01> .
+
+<http://nl.dbpedia.org/resource/Adapaleen> rdfs:label "adapaleen" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D10AD03> .
+
+<http://nl.dbpedia.org/resource/Adrafinil> rdfs:label "adrafinil" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06BX17> .
+
+<http://nl.dbpedia.org/resource/Agomelatine> rdfs:label "agomelatine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06AX22> .
+
+<http://nl.dbpedia.org/resource/Albendazol> rdfs:label "albendazol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P02CA03> .
+
+<http://nl.dbpedia.org/resource/Ambroxol> rdfs:label "ambroxol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R05CB06> .
+
+<http://nl.dbpedia.org/resource/Amfetamine> rdfs:label "amfetamine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06BA01> .
+
+<http://nl.dbpedia.org/resource/Amisulpride> rdfs:label "amisulpride" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05AL05> .
+
+<http://nl.dbpedia.org/resource/Anagrelide> rdfs:label "anagrelide" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L01XX35> .
+
+<http://nl.dbpedia.org/resource/Antithymocytenglobuline> rdfs:label "antithymocytenglobuline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L04AA03> .
+
+<http://nl.dbpedia.org/resource/Artemisinine> rdfs:label "artemisinine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P01BE01> .
+
+<http://nl.dbpedia.org/resource/Articaïne> rdfs:label "articaïne" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N01BB58> .
+
+<http://nl.dbpedia.org/resource/Atomoxetine> rdfs:label "atomoxetine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06BA09> .
+
+<http://nl.dbpedia.org/resource/Atovaquone> rdfs:label "atovaquone" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P01AX06> .
+
+<http://nl.dbpedia.org/resource/Auranofine> rdfs:label "auranofine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M01CB03> .
+
+<http://nl.dbpedia.org/resource/Azelastine> rdfs:label "azelastine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/S01GX07> .
+
+<http://nl.dbpedia.org/resource/Azelaïnezuur> rdfs:label "azelaïnezuur" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D10AX03> .
+
+<http://nl.dbpedia.org/resource/Azitromycine> rdfs:label "azitromycine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01FA10> .
+
+<http://nl.dbpedia.org/resource/Aztreonam> rdfs:label "aztreonam" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01DF01> .
+
+<http://nl.dbpedia.org/resource/Bazedoxifen> rdfs:label "bazedoxifen" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G03XC02> .
+
+<http://nl.dbpedia.org/resource/Benzylpenicilline> rdfs:label "benzylpenicilline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01CE01> .
+
+<http://nl.dbpedia.org/resource/Besilesomab> rdfs:label "besilesomab" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V09HA03> .
+
+<http://nl.dbpedia.org/resource/Broomfenac> rdfs:label "broomfenac" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/S01BC11> .
+
+<http://nl.dbpedia.org/resource/Broomperidol> rdfs:label "broomperidol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05AD06> .
+
+<http://nl.dbpedia.org/resource/Brotizolam> rdfs:label "brotizolam" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05CD09> .
+
+<http://nl.dbpedia.org/resource/Bupropion> rdfs:label "bupropion" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06AX12> .
+
+<http://nl.dbpedia.org/resource/Butorfanol> rdfs:label "butorfanol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N02AF01 > .
+
+<http://nl.dbpedia.org/resource/Butylscopolamine> rdfs:label "butylscopolamine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A03BB01> .
+
+<http://nl.dbpedia.org/resource/Bètahistine> rdfs:label "bètahistine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N07CA01> .
+
+<http://nl.dbpedia.org/resource/Carbasalaatcalcium> rdfs:label "carbasalaatcalcium" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/B01AC08> .
+
+<http://nl.dbpedia.org/resource/Carbenoxolon> rdfs:label "carbenoxolon" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A02BX01> .
+
+<http://nl.dbpedia.org/resource/Carglumaatzuur> rdfs:label "carglumaatzuur" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A16AA05> .
+
+<http://nl.dbpedia.org/resource/Cefotetan> rdfs:label "cefotetan" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01DC05> .
+
+<http://nl.dbpedia.org/resource/Chloormethine> rdfs:label "chloormethine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L01AA05> .
+
+<http://nl.dbpedia.org/resource/Chloorpromazine> rdfs:label "chloorpromazine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05AA01> .
+
+<http://nl.dbpedia.org/resource/Chloorprotixeen> rdfs:label "chloorprotixeen" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05AF03> .
+
+<http://nl.dbpedia.org/resource/Chloroquine> rdfs:label "chloroquine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P01BA01> .
+
+<http://nl.dbpedia.org/resource/Ciclosporine> rdfs:label "ciclosporine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L04AA01> .
+
+<http://nl.dbpedia.org/resource/Cilastatine> rdfs:label "cilastatine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01DH51> .
+
+<http://nl.dbpedia.org/resource/Clenbuterol> rdfs:label "clenbuterol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R03AC14> .
+
+<http://nl.dbpedia.org/resource/Clobutinol> rdfs:label "clobutinol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R05DB03> .
+
+<http://nl.dbpedia.org/resource/Clomifeen> rdfs:label "clomifeen" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G03GB02> .
+
+<http://nl.dbpedia.org/resource/Cloperastine> rdfs:label "cloperastine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R05DB21> .
+
+<http://nl.dbpedia.org/resource/Clorazepinezuur> rdfs:label "clorazepinezuur" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05BA05> .
+
+<http://nl.dbpedia.org/resource/Clotiazepam> rdfs:label "clotiazepam" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05BA21> .
+
+<http://nl.dbpedia.org/resource/Co-trimoxazol> rdfs:label "co-trimoxazol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01EE01> .
+
+<http://nl.dbpedia.org/resource/Cobicistat> rdfs:label "cobicistat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V03AX03> .
+
+<http://nl.dbpedia.org/resource/Cocaïne> rdfs:label "cocaïne" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N01BC01> .
+
+<http://nl.dbpedia.org/resource/Codeïne> rdfs:label "codeïne" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N02AA59> .
+
+<http://nl.dbpedia.org/resource/Colestilan> rdfs:label "colestilan" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V03AE06> .
+
+<http://nl.dbpedia.org/resource/Cortisol> rdfs:label "cortisol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/H02AB09> .
+
+<http://nl.dbpedia.org/resource/Cyclopentolaat> rdfs:label "cyclopentolaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/S01FA04> .
+
+<http://nl.dbpedia.org/resource/Cyproteronacetaat> rdfs:label "cyproteronacetaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G03HA01> .
+
+<http://nl.dbpedia.org/resource/Dabigatran> rdfs:label "dabigatran" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/B01AE07> .
+
+<http://nl.dbpedia.org/resource/Danazol> rdfs:label "danazol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G03XA01> .
+
+<http://nl.dbpedia.org/resource/Dasatinib> rdfs:label "dasatinib" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L01XE06> .
+
+<http://nl.dbpedia.org/resource/Desfluraan> rdfs:label "desfluraan" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N01AB07> .
+
+<http://nl.dbpedia.org/resource/Dexrazoxan> rdfs:label "dexrazoxan" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V03AF02> .
+
+<http://nl.dbpedia.org/resource/Dextro-amfetamine> rdfs:label "dextro-amfetamine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06BA01> .
+
+<http://nl.dbpedia.org/resource/Di-ethylcarbamazine> rdfs:label "di-ethylcarbamazine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P02CB02> .
+
+<http://nl.dbpedia.org/resource/Dihydrocodeïne> rdfs:label "dihydrocodeïne" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N02AA08> .
+
+<http://nl.dbpedia.org/resource/Dimercaprol> rdfs:label "dimercaprol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V03ABO9> .
+
+<http://nl.dbpedia.org/resource/Dimetindeen> rdfs:label "dimetindeen" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R06AB03> .
+
+<http://nl.dbpedia.org/resource/Disulfiram> rdfs:label "disulfiram" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N07BB01> .
+
+<http://nl.dbpedia.org/resource/Dolasetron> rdfs:label "dolasetron" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A04AA04> .
+
+<http://nl.dbpedia.org/resource/Doripenem> rdfs:label "doripenem" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01DH04> .
+
+<http://nl.dbpedia.org/resource/Drospirenon> rdfs:label "drospirenon" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G03AA12> .
+
+<http://nl.dbpedia.org/resource/Econazol> rdfs:label "econazol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D01AC03> .
+
+<http://nl.dbpedia.org/resource/Efedrine> rdfs:label "efedrine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R01AA03> .
+
+<http://nl.dbpedia.org/resource/Eflornithine> rdfs:label "eflornithine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D11AX16> .
+
+<http://nl.dbpedia.org/resource/Elosulfase_alfa> rdfs:label "elosulfase alfa" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A16AB12> .
+
+<http://nl.dbpedia.org/resource/Elvitegravir> rdfs:label "elvitegravir" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J05AX11> .
+
+<http://nl.dbpedia.org/resource/Elvitegravir/cobicistat/emtricitabine/tenofovir_disoproxil> rdfs:label "elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J05AR09> .
+
+<http://nl.dbpedia.org/resource/Emtricitabine> rdfs:label "emtricitabine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J05AF09> .
+
+<http://nl.dbpedia.org/resource/Enfluraan> rdfs:label "enfluraan" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N01AB04> .
+
+<http://nl.dbpedia.org/resource/Ertapenem> rdfs:label "ertapenem" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01DH03> .
+
+<http://nl.dbpedia.org/resource/Etanercept> rdfs:label "etanercept" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L04AA11> .
+
+<http://nl.dbpedia.org/resource/Etofenamaat> rdfs:label "etofenamaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M02AA06> .
+
+<http://nl.dbpedia.org/resource/Etomidaat> rdfs:label "etomidaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N01AX07> .
+
+<http://nl.dbpedia.org/resource/Etretinaat> rdfs:label "etretinaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D05BB01> .
+
+<http://nl.dbpedia.org/resource/Everolimus> rdfs:label "everolimus" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L04AA18> .
+
+<http://nl.dbpedia.org/resource/Exenatide> rdfs:label "exenatide" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A10BX04> .
+
+<http://nl.dbpedia.org/resource/Felbamaat> rdfs:label "felbamaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N03AX10> .
+
+<http://nl.dbpedia.org/resource/Fenacetine> rdfs:label "fenacetine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N02BE03> .
+
+<http://nl.dbpedia.org/resource/Feneticilline> rdfs:label "feneticilline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01CE05> .
+
+<http://nl.dbpedia.org/resource/Fenipentol> rdfs:label "fenipentol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A05AX07> .
+
+<http://nl.dbpedia.org/resource/Fenobarbital> rdfs:label "fenobarbital" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05CA24> .
+
+<http://nl.dbpedia.org/resource/Fidaxomicine> rdfs:label "fidaxomicine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A07AA12> .
+
+<http://nl.dbpedia.org/resource/Fingolimod> rdfs:label "fingolimod" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L04AA27> .
+
+<http://nl.dbpedia.org/resource/Flavoxaat> rdfs:label "flavoxaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G04BD02> .
+
+<http://nl.dbpedia.org/resource/Florbetapir_(18F)> rdfs:label "florbetapir (18f)" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V09AX05> .
+
+<http://nl.dbpedia.org/resource/Fluconazol> rdfs:label "fluconazol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D01AC15> .
+
+<http://nl.dbpedia.org/resource/Fluspirileen> rdfs:label "fluspirileen" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05AG01> .
+
+<http://nl.dbpedia.org/resource/Fluticasonfuroaat> rdfs:label "fluticasonfuroaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D07AC17> .
+
+<http://nl.dbpedia.org/resource/Fondaparinux> rdfs:label "fondaparinux" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/B01AX05> .
+
+<http://nl.dbpedia.org/resource/Foscarnet> rdfs:label "foscarnet" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J05AD01> .
+
+<http://nl.dbpedia.org/resource/Framycetine> rdfs:label "framycetine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R01AX08> .
+
+<http://nl.dbpedia.org/resource/Fumagilline> rdfs:label "fumagilline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P01AX10> .
+
+<http://nl.dbpedia.org/resource/Gadobutrol> rdfs:label "gadobutrol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V08CA09> .
+
+<http://nl.dbpedia.org/resource/Gadoxetaat> rdfs:label "gadoxetaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V08CA10> .
+
+<http://nl.dbpedia.org/resource/Gentamicine> rdfs:label "gentamicine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D06AX07> .
+
+<http://nl.dbpedia.org/resource/Halothaan> rdfs:label "halothaan" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N01AB01> .
+
+<http://nl.dbpedia.org/resource/Hexetidine> rdfs:label "hexetidine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A01AB12> .
+
+<http://nl.dbpedia.org/resource/Homatropine_methylbromide> rdfs:label "homatropine methylbromide" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A03BB06> .
+
+<http://nl.dbpedia.org/resource/Hydrocodon> rdfs:label "hydrocodon" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R05DA03> .
+
+<http://nl.dbpedia.org/resource/Iloprost> rdfs:label "iloprost" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/B01AC11> .
+
+<http://nl.dbpedia.org/resource/Imatinib> rdfs:label "imatinib" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L01XE01> .
+
+<http://nl.dbpedia.org/resource/Imiquimod> rdfs:label "imiquimod" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D06BB10> .
+
+<http://nl.dbpedia.org/resource/Insuline_detemir> rdfs:label "insuline detemir" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A10AE05> .
+
+<http://nl.dbpedia.org/resource/Insuline_glargine> rdfs:label "insuline glargine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A10AE04> .
+
+<http://nl.dbpedia.org/resource/Insuline_lispro> rdfs:label "insuline lispro" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A10AB04> .
+
+<http://nl.dbpedia.org/resource/Iodixanol> rdfs:label "iodixanol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V08AB09> .
+
+<http://nl.dbpedia.org/resource/Iohexol> rdfs:label "iohexol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V08AB02> .
+
+<http://nl.dbpedia.org/resource/Iproniazide> rdfs:label "iproniazide" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06AF05> .
+
+<http://nl.dbpedia.org/resource/Isotretinoïne> rdfs:label "isotretinoïne" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D10AD04> .
+
+<http://nl.dbpedia.org/resource/Ivermectine> rdfs:label "ivermectine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P02CF01> .
+
+<http://nl.dbpedia.org/resource/Lacosamide> rdfs:label "lacosamide" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N03AX18> .
+
+<http://nl.dbpedia.org/resource/Lapatinib> rdfs:label "lapatinib" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L01XE07> .
+
+<http://nl.dbpedia.org/resource/Latanoprost> rdfs:label "latanoprost" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/S01EE01> .
+
+<http://nl.dbpedia.org/resource/Levocetirizine> rdfs:label "levocetirizine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R06AE09> .
+
+<http://nl.dbpedia.org/resource/Levonorgestrel> rdfs:label "levonorgestrel" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G03AC03> .
+
+<http://nl.dbpedia.org/resource/Linagliptine> rdfs:label "linagliptine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A10BH05> .
+
+<http://nl.dbpedia.org/resource/Mebeverine> rdfs:label "mebeverine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A03AA04> .
+
+<http://nl.dbpedia.org/resource/Melarsoprol> rdfs:label "melarsoprol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P01CD01> .
+
+<http://nl.dbpedia.org/resource/Mesna> rdfs:label "mesna" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V03AF01> .
+
+<http://nl.dbpedia.org/resource/Methadon> rdfs:label "methadon" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N02AC52> .
+
+<http://nl.dbpedia.org/resource/Methamfetamine> rdfs:label "methamfetamine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06BA03> .
+
+<http://nl.dbpedia.org/resource/Meticilline> rdfs:label "meticilline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01CF03> .
+
+<http://nl.dbpedia.org/resource/Metronidazol> rdfs:label "metronidazol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A01AB17> .
+
+<http://nl.dbpedia.org/resource/Mifepriston> rdfs:label "mifepriston" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G03XB01> .
+
+<http://nl.dbpedia.org/resource/Miltefosine> rdfs:label "miltefosine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L01XX09> .
+
+<http://nl.dbpedia.org/resource/Mirabegron> rdfs:label "mirabegron" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G04BD12> .
+
+<http://nl.dbpedia.org/resource/Mitotane> rdfs:label "mitotane" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L01XX23> .
+
+<http://nl.dbpedia.org/resource/Mometasonfuroaat> rdfs:label "mometasonfuroaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D07AC13> .
+
+<http://nl.dbpedia.org/resource/Mycofenolzuur> rdfs:label "mycofenolzuur" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L04AA06> .
+
+<http://nl.dbpedia.org/resource/Nalmefeen> rdfs:label "nalmefeen" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N07BB05> .
+
+<http://nl.dbpedia.org/resource/Nandrolon> rdfs:label "nandrolon" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A14AB01> .
+
+<http://nl.dbpedia.org/resource/Naproxen> rdfs:label "naproxen" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G02CC02> .
+
+<http://nl.dbpedia.org/resource/Nateglinide> rdfs:label "nateglinide" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A10BX03> .
+
+<http://nl.dbpedia.org/resource/Natriumfenylbutyraat> rdfs:label "natriumfenylbutyraat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A16AX03> .
+
+<http://nl.dbpedia.org/resource/Natriumthiopental> rdfs:label "natriumthiopental" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N01AF03> .
+
+<http://nl.dbpedia.org/resource/Nimesulide> rdfs:label "nimesulide" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M01AX17> .
+
+<http://nl.dbpedia.org/resource/Nitrofurantoïne> rdfs:label "nitrofurantoïne" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01XE01> .
+
+<http://nl.dbpedia.org/resource/Nortriptyline> rdfs:label "nortriptyline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06AA10> .
+
+<http://nl.dbpedia.org/resource/Oestradiol> rdfs:label "oestradiol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G03CA03> .
+
+<http://nl.dbpedia.org/resource/Oxacilline> rdfs:label "oxacilline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01CF04> .
+
+<http://nl.dbpedia.org/resource/Oxandrolon> rdfs:label "oxandrolon" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A14AA08> .
+
+<http://nl.dbpedia.org/resource/Oxcarbazepine> rdfs:label "oxcarbazepine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N03AF02> .
+
+<http://nl.dbpedia.org/resource/Oxymetazoline> rdfs:label "oxymetazoline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R01AA05> .
+
+<http://nl.dbpedia.org/resource/Paliperidon> rdfs:label "paliperidon" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05AX13> .
+
+<http://nl.dbpedia.org/resource/Palonosetron> rdfs:label "palonosetron" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A04AA05> .
+
+<http://nl.dbpedia.org/resource/Pancuronium> rdfs:label "pancuronium" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M03AC01> .
+
+<http://nl.dbpedia.org/resource/Para-aminosalicylzuur> rdfs:label "para-aminosalicylzuur" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J04AA01> .
+
+<http://nl.dbpedia.org/resource/Parecoxib> rdfs:label "parecoxib" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M01AH04> .
+
+<http://nl.dbpedia.org/resource/Pemoline> rdfs:label "pemoline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06BA05> .
+
+<http://nl.dbpedia.org/resource/Penfluridol> rdfs:label "penfluridol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05AG03> .
+
+<http://nl.dbpedia.org/resource/Pimecrolimus> rdfs:label "pimecrolimus" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D11AH02> .
+
+<http://nl.dbpedia.org/resource/Pimozide> rdfs:label "pimozide" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05AG02> .
+
+<http://nl.dbpedia.org/resource/Podofyllotoxine> rdfs:label "podofyllotoxine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D06BB04> .
+
+<http://nl.dbpedia.org/resource/Polyethyleenglycol> rdfs:label "polyethyleenglycol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A06AD15> .
+
+<http://nl.dbpedia.org/resource/Prazepam> rdfs:label "prazepam" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05BA11> .
+
+<http://nl.dbpedia.org/resource/Praziquantel> rdfs:label "praziquantel" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P02BA01> .
+
+<http://nl.dbpedia.org/resource/Prednison> rdfs:label "prednison" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A07EA03> .
+
+<http://nl.dbpedia.org/resource/Proguanil> rdfs:label "proguanil" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P01BB01> .
+
+<http://nl.dbpedia.org/resource/Prolintaan> rdfs:label "prolintaan" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06BX14> .
+
+<http://nl.dbpedia.org/resource/Promethazine> rdfs:label "promethazine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D04AA10> .
+
+<http://nl.dbpedia.org/resource/Propiverine> rdfs:label "propiverine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G04BD06> .
+
+<http://nl.dbpedia.org/resource/Pseudo-efedrine> rdfs:label "pseudo-efedrine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R01BA02> .
+
+<http://nl.dbpedia.org/resource/Pyrimethamine> rdfs:label "pyrimethamine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P01BD01> .
+
+<http://nl.dbpedia.org/resource/Raltegravir> rdfs:label "raltegravir" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J05AX08> .
+
+<http://nl.dbpedia.org/resource/Ramelteon> rdfs:label "ramelteon" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05CH02> .
+
+<http://nl.dbpedia.org/resource/Rasagiline> rdfs:label "rasagiline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N04BD02> .
+
+<http://nl.dbpedia.org/resource/Rifabutine> rdfs:label "rifabutine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J04AB04> .
+
+<http://nl.dbpedia.org/resource/Risedroninezuur> rdfs:label "risedroninezuur" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M05BA07> .
+
+<http://nl.dbpedia.org/resource/Rivaroxaban> rdfs:label "rivaroxaban" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/B01AF01> .
+
+<http://nl.dbpedia.org/resource/Rofecoxib> rdfs:label "rofecoxib" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M01AH02> .
+
+<http://nl.dbpedia.org/resource/Semaglutide> rdfs:label "semaglutide" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A10BJ06> .
+
+<http://nl.dbpedia.org/resource/Sevofluraan> rdfs:label "sevofluraan" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N01AB08> .
+
+<http://nl.dbpedia.org/resource/Silodosine> rdfs:label "silodosine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G04CA04> .
+
+<http://nl.dbpedia.org/resource/Sitagliptine> rdfs:label "sitagliptine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A10BH01> .
+
+<http://nl.dbpedia.org/resource/Sofosbuvir> rdfs:label "sofosbuvir" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J05AP08 > .
+
+<http://nl.dbpedia.org/resource/Solifenacine> rdfs:label "solifenacine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G04BD08> .
+
+<http://nl.dbpedia.org/resource/Spiramycine> rdfs:label "spiramycine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01FA02> .
+
+<http://nl.dbpedia.org/resource/Streptomycine> rdfs:label "streptomycine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A07AA04> .
+
+<http://nl.dbpedia.org/resource/Strontiumranelaat> rdfs:label "strontiumranelaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M05BX03> .
+
+<http://nl.dbpedia.org/resource/Succinylcholine> rdfs:label "succinylcholine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M03AB01> .
+
+<http://nl.dbpedia.org/resource/Sugammadex> rdfs:label "sugammadex" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/V03AB35> .
+
+<http://nl.dbpedia.org/resource/Sulbactam> rdfs:label "sulbactam" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01CG01> .
+
+<http://nl.dbpedia.org/resource/Sulconazol> rdfs:label "sulconazol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D01AC09> .
+
+<http://nl.dbpedia.org/resource/Tacrolimus> rdfs:label "tacrolimus" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/L04AA05> .
+
+<http://nl.dbpedia.org/resource/Tadalafil> rdfs:label "tadalafil" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G04BE08> .
+
+<http://nl.dbpedia.org/resource/Tafluprost> rdfs:label "tafluprost" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/S01EE05> .
+
+<http://nl.dbpedia.org/resource/Tamsulosine> rdfs:label "tamsulosine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G04CA02> .
+
+<http://nl.dbpedia.org/resource/Tapentadol> rdfs:label "tapentadol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N02AX06> .
+
+<http://nl.dbpedia.org/resource/Tazobactam> rdfs:label "tazobactam" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01CG02> .
+
+<http://nl.dbpedia.org/resource/Telithromycine> rdfs:label "telithromycine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01FA15> .
+
+<http://nl.dbpedia.org/resource/Tenofovir_disoproxil> rdfs:label "tenofovir disoproxil" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J05AF07> .
+
+<http://nl.dbpedia.org/resource/Thebacon> rdfs:label "thebacon" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R05DA10> .
+
+<http://nl.dbpedia.org/resource/Thiamfenicol> rdfs:label "thiamfenicol" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01BA02> .
+
+<http://nl.dbpedia.org/resource/Thyroxine> rdfs:label "thyroxine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/H03AA01> .
+
+<http://nl.dbpedia.org/resource/Ticagrelor> rdfs:label "ticagrelor" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/B01AC24> .
+
+<http://nl.dbpedia.org/resource/Tigecycline> rdfs:label "tigecycline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/J01AA12> .
+
+<http://nl.dbpedia.org/resource/Tilidine> rdfs:label "tilidine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N02AX01> .
+
+<http://nl.dbpedia.org/resource/Tiludroninezuur> rdfs:label "tiludroninezuur" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M05BA05> .
+
+<http://nl.dbpedia.org/resource/Tocofersolan> rdfs:label "tocofersolan" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A11HA08> .
+
+<http://nl.dbpedia.org/resource/Tramazoline> rdfs:label "tramazoline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R01AA09> .
+
+<http://nl.dbpedia.org/resource/Travoprost> rdfs:label "travoprost" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/S01EE04> .
+
+<http://nl.dbpedia.org/resource/Treprostinil> rdfs:label "treprostinil" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/B01AC21> .
+
+<http://nl.dbpedia.org/resource/Tretinoïne> rdfs:label "tretinoïne" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/D10AD01> .
+
+<http://nl.dbpedia.org/resource/Triamcinolon> rdfs:label "triamcinolon" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A01AC01> .
+
+<http://nl.dbpedia.org/resource/Triazolam> rdfs:label "triazolam" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05CD05> .
+
+<http://nl.dbpedia.org/resource/Triclabendazool> rdfs:label "triclabendazool" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/P02BX04> .
+
+<http://nl.dbpedia.org/resource/Triflupromazine> rdfs:label "triflupromazine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N05AA05> .
+
+<http://nl.dbpedia.org/resource/Trifluridine> rdfs:label "trifluridine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/S01AD02> .
+
+<http://nl.dbpedia.org/resource/Ulipristalacetaat> rdfs:label "ulipristalacetaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G03AD02> .
+
+<http://nl.dbpedia.org/resource/Valproïnezuur> rdfs:label "valproïnezuur" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N03AG01> .
+
+<http://nl.dbpedia.org/resource/Vardenafil> rdfs:label "vardenafil" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G04BE09> .
+
+<http://nl.dbpedia.org/resource/Varenicline> rdfs:label "varenicline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N07BA03> .
+
+<http://nl.dbpedia.org/resource/Velaglucerase_alfa> rdfs:label "velaglucerase alfa" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A16AB10> .
+
+<http://nl.dbpedia.org/resource/Vildagliptine> rdfs:label "vildagliptine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/A10BH02> .
+
+<http://nl.dbpedia.org/resource/Xylometazoline> rdfs:label "xylometazoline" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/R01AA07> .
+
+<http://nl.dbpedia.org/resource/Yohimbine> rdfs:label "yohimbine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/G04BE04> .
+
+<http://nl.dbpedia.org/resource/Zimelidine> rdfs:label "zimelidine" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N06AB02> .
+
+<http://nl.dbpedia.org/resource/Zoledronaat> rdfs:label "zoledronaat" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/M05BA08> .
+
+<http://nl.dbpedia.org/resource/Zonisamide> rdfs:label "zonisamide" ;
+    rdfs:subClassOf <http://purl.bioontology.org/ontology/UATC/N03AX15> .
+

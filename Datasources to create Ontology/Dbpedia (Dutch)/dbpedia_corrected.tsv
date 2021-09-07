@@ -1,0 +1,235 @@
+﻿Resource	Name	ATC	URI	label
+http://nl.dbpedia.org/resource/Acetylsalicylzuur	acetylsalicylzuur	A01AD05	http://purl.bioontology.org/ontology/UATC/A01AD05	acetylsalicylic acid
+http://nl.dbpedia.org/resource/Carbenoxolon	carbenoxolon	A02BX01	http://purl.bioontology.org/ontology/UATC/A02BX01	carbenoxolone
+http://nl.dbpedia.org/resource/Homatropine_methylbromide	homatropine methylbromide	A03BB06	http://purl.bioontology.org/ontology/UATC/A03BB06	pirenzepine
+http://nl.dbpedia.org/resource/Fenipentol	fenipentol	A05AX07	http://purl.bioontology.org/ontology/UATC/A05AX07	fenipentol
+http://nl.dbpedia.org/resource/Polyethyleenglycol	polyethyleenglycol	A06AD15	http://purl.bioontology.org/ontology/UATC/A06AD15	macrogol
+http://nl.dbpedia.org/resource/Streptomycine	streptomycine	A07AA04	http://purl.bioontology.org/ontology/UATC/A07AA04	streptomycin
+http://nl.dbpedia.org/resource/Fidaxomicine	fidaxomicine	A07AA12	http://purl.bioontology.org/ontology/UATC/A07AA12	fidaxomicin
+http://nl.dbpedia.org/resource/Insuline_lispro	insuline lispro	A10AB04	http://purl.bioontology.org/ontology/UATC/A10AB04	insulin lispro
+http://nl.dbpedia.org/resource/Insuline_glargine	insuline glargine	A10AE04	http://purl.bioontology.org/ontology/UATC/A10AE04	insulin glargine
+http://nl.dbpedia.org/resource/Insuline_detemir	insuline detemir	A10AE05	http://purl.bioontology.org/ontology/UATC/A10AE05	insulin detemir
+http://nl.dbpedia.org/resource/Sitagliptine	sitagliptine	A10BH01	http://purl.bioontology.org/ontology/UATC/A10BH01	sitagliptin
+http://nl.dbpedia.org/resource/Vildagliptine	vildagliptine	A10BH02	http://purl.bioontology.org/ontology/UATC/A10BH02	vildagliptin
+http://nl.dbpedia.org/resource/Linagliptine	linagliptine	A10BH05	http://purl.bioontology.org/ontology/UATC/A10BH05	linagliptin
+http://nl.dbpedia.org/resource/Exenatide	exenatide	A10BX04	http://purl.bioontology.org/ontology/UATC/A10BX04	exenatide
+http://nl.dbpedia.org/resource/Oxandrolon	oxandrolon	A14AA08	http://purl.bioontology.org/ontology/UATC/A14AA08	oxandrolone
+http://nl.dbpedia.org/resource/Nandrolon	nandrolon	A14AB01	http://purl.bioontology.org/ontology/UATC/A14AB01	nandrolone
+http://nl.dbpedia.org/resource/Carglumaatzuur	carglumaatzuur	A16AA05	http://purl.bioontology.org/ontology/UATC/A16AA05	carglumic acid
+http://nl.dbpedia.org/resource/Natriumfenylbutyraat	natriumfenylbutyraat	A16AX03	http://purl.bioontology.org/ontology/UATC/A16AX03	sodium phenylbutyrate
+http://nl.dbpedia.org/resource/Carbasalaatcalcium	carbasalaatcalcium	B01AC08	http://purl.bioontology.org/ontology/UATC/B01AC08	carbasalate calcium
+http://nl.dbpedia.org/resource/Dabigatran	dabigatran	B01AE07	http://purl.bioontology.org/ontology/UATC/B01AE07	dabigatran etexilate
+http://nl.dbpedia.org/resource/Econazol	econazol	D01AC03	http://purl.bioontology.org/ontology/UATC/D01AC03	econazole
+http://nl.dbpedia.org/resource/Sulconazol	sulconazol	D01AC09	http://purl.bioontology.org/ontology/UATC/D01AC09	sulconazole
+http://nl.dbpedia.org/resource/Etretinaat	etretinaat	D05BB01	http://purl.bioontology.org/ontology/UATC/D05BB01	etretinate
+http://nl.dbpedia.org/resource/Podofyllotoxine	podofyllotoxine	D06BB04	http://purl.bioontology.org/ontology/UATC/D06BB04	podophyllotoxin
+http://nl.dbpedia.org/resource/Mometasonfuroaat	mometasonfuroaat	D07AC13	http://purl.bioontology.org/ontology/UATC/D07AC13	mometasone
+http://nl.dbpedia.org/resource/Fluticasonfuroaat	fluticasonfuroaat	D07AC17	http://purl.bioontology.org/ontology/UATC/D07AC17	fluticasone
+http://nl.dbpedia.org/resource/Tretinoïne	tretinoïne	D10AD01	http://purl.bioontology.org/ontology/UATC/D10AD01	tretinoin
+http://nl.dbpedia.org/resource/Adapaleen	adapaleen	D10AD03	http://purl.bioontology.org/ontology/UATC/D10AD03	adapalene
+http://nl.dbpedia.org/resource/Isotretinoïne	isotretinoïne	D10AD04	http://purl.bioontology.org/ontology/UATC/D10AD04	isotretinoin
+http://nl.dbpedia.org/resource/Azelaïnezuur	azelaïnezuur	D10AX03	http://purl.bioontology.org/ontology/UATC/D10AX03	azelaic acid
+http://nl.dbpedia.org/resource/Pimecrolimus	pimecrolimus	D11AH02	http://purl.bioontology.org/ontology/UATC/D11AH02	OTHER DERMATOLOGICAL PREPARATIONS in ATC
+http://nl.dbpedia.org/resource/Drospirenon	drospirenon	G03AA12	http://purl.bioontology.org/ontology/UATC/G03AA12	drospirenone and ethinylestradiol
+http://nl.dbpedia.org/resource/Ulipristalacetaat	ulipristalacetaat	G03AD02	http://purl.bioontology.org/ontology/UATC/G03AD02	ulipristal
+http://nl.dbpedia.org/resource/Oestradiol	oestradiol	G03CA03	http://purl.bioontology.org/ontology/UATC/G03CA03	estradiol
+http://nl.dbpedia.org/resource/Clomifeen	clomifeen	G03GB02	http://purl.bioontology.org/ontology/UATC/G03GB02	clomifene
+http://nl.dbpedia.org/resource/Cyproteronacetaat	cyproteronacetaat	G03HA01	http://purl.bioontology.org/ontology/UATC/G03HA01	cyproterone
+http://nl.dbpedia.org/resource/Mifepriston	mifepriston	G03XB01	http://purl.bioontology.org/ontology/UATC/G03XB01	mifepristone
+http://nl.dbpedia.org/resource/Bazedoxifen	bazedoxifen	G03XC02	http://purl.bioontology.org/ontology/UATC/G03XC02	bazedoxifene
+http://nl.dbpedia.org/resource/Flavoxaat	flavoxaat	G04BD02	http://purl.bioontology.org/ontology/UATC/G04BD02	flavoxate
+http://nl.dbpedia.org/resource/Solifenacine	solifenacine	G04BD08	http://purl.bioontology.org/ontology/UATC/G04BD08	solifenacin
+http://nl.dbpedia.org/resource/Tamsulosine	tamsulosine	G04CA02	http://purl.bioontology.org/ontology/UATC/G04CA02	tamsulosin
+http://nl.dbpedia.org/resource/Silodosine	silodosine	G04CA04	http://purl.bioontology.org/ontology/UATC/G04CA04	silodosin
+http://nl.dbpedia.org/resource/Cortisol	cortisol	H02AB09	http://purl.bioontology.org/ontology/UATC/H02AB09	hydrocortisone
+http://nl.dbpedia.org/resource/Cortisol	cortisol	H02AB09	http://purl.bioontology.org/ontology/UATC/H02AB09	hydrocortisone
+http://nl.dbpedia.org/resource/Cortisol	cortisol	H02AB09	http://purl.bioontology.org/ontology/UATC/H02AB09	hydrocortisone
+http://nl.dbpedia.org/resource/Thyroxine	thyroxine	H03AA01	http://purl.bioontology.org/ontology/UATC/H03AA01	levothyroxine sodium
+http://nl.dbpedia.org/resource/Thiamfenicol	thiamfenicol	J01BA02	http://purl.bioontology.org/ontology/UATC/J01BA02	thiamphenicol
+http://nl.dbpedia.org/resource/Benzylpenicilline	benzylpenicilline	J01CE01	http://purl.bioontology.org/ontology/UATC/J01CE01	benzylpenicillin
+http://nl.dbpedia.org/resource/Feneticilline	feneticilline	J01CE05	http://purl.bioontology.org/ontology/UATC/J01CE05	pheneticillin
+http://nl.dbpedia.org/resource/Meticilline	meticilline	J01CF03	http://purl.bioontology.org/ontology/UATC/J01CF03	meticillin
+http://nl.dbpedia.org/resource/Oxacilline	oxacilline	J01CF04	http://purl.bioontology.org/ontology/UATC/J01CF04	oxacillin
+http://nl.dbpedia.org/resource/Cilastatine	cilastatine	J01DH51	http://purl.bioontology.org/ontology/UATC/J01DH51	imipenem and cilastatin
+http://nl.dbpedia.org/resource/Co-trimoxazol	co-trimoxazol	J01EE01	http://purl.bioontology.org/ontology/UATC/J01EE01	sulfamethoxazole and trimethoprim
+http://nl.dbpedia.org/resource/Spiramycine	spiramycine	J01FA02	http://purl.bioontology.org/ontology/UATC/J01FA02	spiramycin
+http://nl.dbpedia.org/resource/Azitromycine	azitromycine	J01FA10	http://purl.bioontology.org/ontology/UATC/J01FA10	azithromycin
+http://nl.dbpedia.org/resource/Telithromycine	telithromycine	J01FA15	http://purl.bioontology.org/ontology/UATC/J01FA15	telithromycin
+http://nl.dbpedia.org/resource/Nitrofurantoïne	nitrofurantoïne	J01XE01	http://purl.bioontology.org/ontology/UATC/J01XE01	nitrofurantoin
+http://nl.dbpedia.org/resource/Para-aminosalicylzuur	para-aminosalicylzuur	J04AA01	http://purl.bioontology.org/ontology/UATC/J04AA01	4-aminosalicylic acid
+http://nl.dbpedia.org/resource/Rifabutine	rifabutine	J04AB04	http://purl.bioontology.org/ontology/UATC/J04AB04	rifabutin
+http://nl.dbpedia.org/resource/Sofosbuvir	sofosbuvir	J05AP08	http://purl.bioontology.org/ontology/UATC/J05AP08	Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+http://nl.dbpedia.org/resource/Elvitegravir/cobicistat/emtricitabine/tenofovir_disoproxil	elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil	J05AR09	http://purl.bioontology.org/ontology/UATC/J05AR09	emtricitabine, tenofovir disoproxil, elvitegravir and cobicistat
+http://nl.dbpedia.org/resource/Abacavir/dolutegravir/lamivudine	abacavir/dolutegravir/lamivudine	J05AR13	http://purl.bioontology.org/ontology/UATC/J05AR13	lamivudine, abacavir and dolutegravir
+http://nl.dbpedia.org/resource/Chloormethine	chloormethine	L01AA05	http://purl.bioontology.org/ontology/UATC/L01AA05	chlormethine
+http://nl.dbpedia.org/resource/Imatinib	imatinib	L01XE01	http://purl.bioontology.org/ontology/UATC/L01XE01	imatinib
+http://nl.dbpedia.org/resource/Antithymocytenglobuline	antithymocytenglobuline	L04AA03	http://purl.bioontology.org/ontology/UATC/L04AA03	antilymphocyte immunoglobulin (horse)
+http://nl.dbpedia.org/resource/Mycofenolzuur	mycofenolzuur	L04AA06	http://purl.bioontology.org/ontology/UATC/L04AA06	mycophenolic acid
+http://nl.dbpedia.org/resource/Auranofine	auranofine	M01CB03	http://purl.bioontology.org/ontology/UATC/M01CB03	auranofin
+http://nl.dbpedia.org/resource/Etofenamaat	etofenamaat	M02AA06	http://purl.bioontology.org/ontology/UATC/M02AA06	etofenamate
+http://nl.dbpedia.org/resource/Succinylcholine	succinylcholine	M03AB01	http://purl.bioontology.org/ontology/UATC/M03AB01	suxamethonium
+http://nl.dbpedia.org/resource/Tiludroninezuur	tiludroninezuur	M05BA05	http://purl.bioontology.org/ontology/UATC/M05BA05	tiludronic acid
+http://nl.dbpedia.org/resource/Risedroninezuur	risedroninezuur	M05BA07	http://purl.bioontology.org/ontology/UATC/M05BA07	risedronic acid
+http://nl.dbpedia.org/resource/Zoledronaat	zoledronaat	M05BA08	http://purl.bioontology.org/ontology/UATC/M05BA08	zoledronic acid
+http://nl.dbpedia.org/resource/Strontiumranelaat	strontiumranelaat	M05BX03	http://purl.bioontology.org/ontology/UATC/M05BX03	strontium ranelate
+http://nl.dbpedia.org/resource/Halothaan	halothaan	N01AB01	http://purl.bioontology.org/ontology/UATC/N01AB01	halothane
+http://nl.dbpedia.org/resource/Enfluraan	enfluraan	N01AB04	http://purl.bioontology.org/ontology/UATC/N01AB04	enflurane
+http://nl.dbpedia.org/resource/Desfluraan	desfluraan	N01AB07	http://purl.bioontology.org/ontology/UATC/N01AB07	desflurane
+http://nl.dbpedia.org/resource/Sevofluraan	sevofluraan	N01AB08	http://purl.bioontology.org/ontology/UATC/N01AB08	sevoflurane
+http://nl.dbpedia.org/resource/Natriumthiopental	natriumthiopental	N01AF03	http://purl.bioontology.org/ontology/UATC/N01AF03	thiopental
+http://nl.dbpedia.org/resource/Etomidaat	etomidaat	N01AX07	http://purl.bioontology.org/ontology/UATC/N01AX07	etomidate
+http://nl.dbpedia.org/resource/Articaïne	articaïne	N01BB58	http://purl.bioontology.org/ontology/UATC/N01BB58	articaine, combinations
+http://nl.dbpedia.org/resource/Cocaïne	cocaïne	N01BC01	http://purl.bioontology.org/ontology/UATC/N01BC01	cocaine
+http://nl.dbpedia.org/resource/Dihydrocodeïne	dihydrocodeïne	N02AA08	http://purl.bioontology.org/ontology/UATC/N02AA08	dihydrocodeine
+http://nl.dbpedia.org/resource/Codeïne	codeïne	N02AA59	http://purl.bioontology.org/ontology/UATC/N02AA59	codeine, combinations excl. psycholeptics
+http://nl.dbpedia.org/resource/Butorfanol	butorfanol	N02AF01	http://purl.bioontology.org/ontology/UATC/N02AF01	tramadol
+http://nl.dbpedia.org/resource/Fenacetine	fenacetine	N02BE03	http://purl.bioontology.org/ontology/UATC/N02BE03	phenacetin
+http://nl.dbpedia.org/resource/Valproïnezuur	valproïnezuur	N03AG01	http://purl.bioontology.org/ontology/UATC/N03AG01	valproic acid
+http://nl.dbpedia.org/resource/Felbamaat	felbamaat	N03AX10	http://purl.bioontology.org/ontology/UATC/N03AX10	felbamate
+http://nl.dbpedia.org/resource/Chloorpromazine	chloorpromazine	N05AA01	http://purl.bioontology.org/ontology/UATC/N05AA01	chlorpromazine
+http://nl.dbpedia.org/resource/Broomperidol	broomperidol	N05AD06	http://purl.bioontology.org/ontology/UATC/N05AD06	bromperidol
+http://nl.dbpedia.org/resource/Chloorprotixeen	chloorprotixeen	N05AF03	http://purl.bioontology.org/ontology/UATC/N05AF03	chlorprothixene
+http://nl.dbpedia.org/resource/Fluspirileen	fluspirileen	N05AG01	http://purl.bioontology.org/ontology/UATC/N05AG01	fluspirilene
+http://nl.dbpedia.org/resource/Paliperidon	paliperidon	N05AX13	http://purl.bioontology.org/ontology/UATC/N05AX13	paliperidone
+http://nl.dbpedia.org/resource/Clorazepinezuur	clorazepinezuur	N05BA05	http://purl.bioontology.org/ontology/UATC/N05BA05	potassium clorazepate
+http://nl.dbpedia.org/resource/Brotizolam	brotizolam	N05CD09	http://purl.bioontology.org/ontology/UATC/N05CD09	clotiazepam
+http://nl.dbpedia.org/resource/Zimelidine	zimelidine	N06AB02	http://purl.bioontology.org/ontology/UATC/N06AB02	zimeldine
+http://nl.dbpedia.org/resource/Dextro-amfetamine	dextro-amfetamine	N06BA01	http://purl.bioontology.org/ontology/UATC/N06BA01	amfetamine
+http://nl.dbpedia.org/resource/Methamfetamine	methamfetamine	N06BA03	http://purl.bioontology.org/ontology/UATC/N06BA03	metamfetamine
+http://nl.dbpedia.org/resource/Prolintaan	prolintaan	N06BX14	http://purl.bioontology.org/ontology/UATC/N06BX14	prolintane
+http://nl.dbpedia.org/resource/Acamprosaat	acamprosaat	N07BB03	http://purl.bioontology.org/ontology/UATC/N07BB03	acamprosate
+http://nl.dbpedia.org/resource/Nalmefeen	nalmefeen	N07BB05	http://purl.bioontology.org/ontology/UATC/N07BB05	nalmefene
+http://nl.dbpedia.org/resource/Bètahistine	bètahistine	N07CA01	http://purl.bioontology.org/ontology/UATC/N07CA01	betahistine
+http://nl.dbpedia.org/resource/3,4-diaminopyridine	3,4-diaminopyridine	N07XX05	http://purl.bioontology.org/ontology/UATC/N07XX05	amifampridine
+http://nl.dbpedia.org/resource/Fumagilline	fumagilline	P01AX10	http://purl.bioontology.org/ontology/UATC/P01AX10	fumagillin
+http://nl.dbpedia.org/resource/Artemisinine	artemisinine	P01BE01	http://purl.bioontology.org/ontology/UATC/P01BE01	artemisinin
+http://nl.dbpedia.org/resource/Triclabendazool	triclabendazool	P02BX04	http://purl.bioontology.org/ontology/UATC/P02BX04	triclabendazole
+http://nl.dbpedia.org/resource/Albendazol	albendazol	P02CA03	http://purl.bioontology.org/ontology/UATC/P02CA03	albendazole
+http://nl.dbpedia.org/resource/Di-ethylcarbamazine	di-ethylcarbamazine	P02CB02	http://purl.bioontology.org/ontology/UATC/P02CB02	diethylcarbamazine
+http://nl.dbpedia.org/resource/Ivermectine	ivermectine	P02CF01	http://purl.bioontology.org/ontology/UATC/P02CF01	ivermectin
+http://nl.dbpedia.org/resource/Efedrine	efedrine	R01AA03	http://purl.bioontology.org/ontology/UATC/R01AA03	ephedrine
+http://nl.dbpedia.org/resource/Framycetine	framycetine	R01AX08	http://purl.bioontology.org/ontology/UATC/R01AX08	framycetin
+http://nl.dbpedia.org/resource/Pseudo-efedrine	pseudo-efedrine	R01BA02	http://purl.bioontology.org/ontology/UATC/R01BA02	pseudoephedrine
+http://nl.dbpedia.org/resource/Acetylcysteïne	acetylcysteïne	R05CB01	http://purl.bioontology.org/ontology/UATC/R05CB01	acetylcysteine
+http://nl.dbpedia.org/resource/Hydrocodon	hydrocodon	R05DA03	http://purl.bioontology.org/ontology/UATC/R05DA03	hydrocodone
+http://nl.dbpedia.org/resource/Dimetindeen	dimetindeen	R06AB03	http://purl.bioontology.org/ontology/UATC/R06AB03	dimetindene
+http://nl.dbpedia.org/resource/Broomfenac	broomfenac	S01BC11	http://purl.bioontology.org/ontology/UATC/S01BC11	bromfenac
+http://nl.dbpedia.org/resource/Latanoprost	latanoprost	S01EE01	http://purl.bioontology.org/ontology/UATC/S01EE01	tafluprost
+http://nl.dbpedia.org/resource/Travoprost	travoprost	S01EE04	http://purl.bioontology.org/ontology/UATC/S01EE04	tafluprost
+http://nl.dbpedia.org/resource/Cyclopentolaat	cyclopentolaat	S01FA04	http://purl.bioontology.org/ontology/UATC/S01FA04	cyclopentolate
+http://nl.dbpedia.org/resource/Dexrazoxan	dexrazoxan	V03AF02	http://purl.bioontology.org/ontology/UATC/V03AF02	dexrazoxane
+http://nl.dbpedia.org/resource/Gadoxetaat	gadoxetaat	V08CA10	http://purl.bioontology.org/ontology/UATC/V08CA10	gadoxetic acid
+http://nl.dbpedia.org/resource/Besilesomab	besilesomab	V09HA03	http://purl.bioontology.org/ontology/UATC/V09HA03	technetium (99mTc) antigranulocyte antibody
+http://nl.dbpedia.org/resource/Promethazine	promethazine	D04AA10	http://purl.bioontology.org/ontology/UATC/D04AA10	promethazine
+http://nl.dbpedia.org/resource/Prednison	prednison	A07EA03	http://purl.bioontology.org/ontology/UATC/A07EA03	prednisone
+http://nl.dbpedia.org/resource/Fluconazol	fluconazol	D01AC15	http://purl.bioontology.org/ontology/UATC/D01AC15	fluconazole
+http://nl.dbpedia.org/resource/Gentamicine	gentamicine	D06AX07	http://purl.bioontology.org/ontology/UATC/D06AX07	gentamicin
+http://nl.dbpedia.org/resource/Ciclosporine	ciclosporine	L04AA01	http://purl.bioontology.org/ontology/UATC/L04AA01	ciclosporine
+http://nl.dbpedia.org/resource/Tacrolimus	tacrolimus	L04AA05	http://purl.bioontology.org/ontology/UATC/L04AA05	tacrolimus
+http://nl.dbpedia.org/resource/Etanercept	etanercept	L04AA11	http://purl.bioontology.org/ontology/UATC/L04AA11	etanercept
+http://nl.dbpedia.org/resource/Methadon	methadon	N02AC52	http://purl.bioontology.org/ontology/UATC/N02AC52	methadone, combinations excl. psycholeptics
+http://nl.dbpedia.org/resource/Fenobarbital	fenobarbital	N05CA24	http://purl.bioontology.org/ontology/UATC/N05CA24	fenobarbital
+http://nl.dbpedia.org/resource/Dimercaprol	dimercaprol	V03ABO9	http://purl.bioontology.org/ontology/UATC/V03ABO9	dimercaprol
+http://nl.dbpedia.org/resource/Hexetidine	hexetidine	A01AB12	http://purl.bioontology.org/ontology/UATC/A01AB12	hexetidine
+http://nl.dbpedia.org/resource/Mebeverine	mebeverine	A03AA04	http://purl.bioontology.org/ontology/UATC/A03AA04	mebeverine
+http://nl.dbpedia.org/resource/Butylscopolamine	butylscopolamine	A03BB01	http://purl.bioontology.org/ontology/UATC/A03BB01	butylscopolamine
+http://nl.dbpedia.org/resource/Dolasetron	dolasetron	A04AA04	http://purl.bioontology.org/ontology/UATC/A04AA04	dolasetron
+http://nl.dbpedia.org/resource/Palonosetron	palonosetron	A04AA05	http://purl.bioontology.org/ontology/UATC/A04AA05	palonosetron
+http://nl.dbpedia.org/resource/Semaglutide	semaglutide	A10BJ06	http://purl.bioontology.org/ontology/UATC/A10BJ06	semaglutide
+http://nl.dbpedia.org/resource/Nateglinide	nateglinide	A10BX03	http://purl.bioontology.org/ontology/UATC/A10BX03	nateglinide
+http://nl.dbpedia.org/resource/Tocofersolan	tocofersolan	A11HA08	http://purl.bioontology.org/ontology/UATC/A11HA08	tocofersolan
+http://nl.dbpedia.org/resource/Velaglucerase_alfa	velaglucerase alfa	A16AB10	http://purl.bioontology.org/ontology/UATC/A16AB10	velaglucerase alfa
+http://nl.dbpedia.org/resource/Elosulfase_alfa	elosulfase alfa	A16AB12	http://purl.bioontology.org/ontology/UATC/A16AB12	elosulfase alfa
+http://nl.dbpedia.org/resource/Iloprost	iloprost	B01AC11	http://purl.bioontology.org/ontology/UATC/B01AC11	iloprost
+http://nl.dbpedia.org/resource/Treprostinil	treprostinil	B01AC21	http://purl.bioontology.org/ontology/UATC/B01AC21	treprostinil
+http://nl.dbpedia.org/resource/Ticagrelor	ticagrelor	B01AC24	http://purl.bioontology.org/ontology/UATC/B01AC24	ticagrelor
+http://nl.dbpedia.org/resource/Rivaroxaban	rivaroxaban	B01AF01	http://purl.bioontology.org/ontology/UATC/B01AF01	rivaroxaban
+http://nl.dbpedia.org/resource/Fondaparinux	fondaparinux	B01AX05	http://purl.bioontology.org/ontology/UATC/B01AX05	fondaparinux
+http://nl.dbpedia.org/resource/Imiquimod	imiquimod	D06BB10	http://purl.bioontology.org/ontology/UATC/D06BB10	imiquimod
+http://nl.dbpedia.org/resource/Eflornithine	eflornithine	D11AX16	http://purl.bioontology.org/ontology/UATC/D11AX16	eflornithine
+http://nl.dbpedia.org/resource/Naproxen	naproxen	G02CC02	http://purl.bioontology.org/ontology/UATC/G02CC02	naproxen
+http://nl.dbpedia.org/resource/Levonorgestrel	levonorgestrel	G03AC03	http://purl.bioontology.org/ontology/UATC/G03AC03	levonorgestrel
+http://nl.dbpedia.org/resource/Danazol	danazol	G03XA01	http://purl.bioontology.org/ontology/UATC/G03XA01	danazol
+http://nl.dbpedia.org/resource/Propiverine	propiverine	G04BD06	http://purl.bioontology.org/ontology/UATC/G04BD06	propiverine
+http://nl.dbpedia.org/resource/Mirabegron	mirabegron	G04BD12	http://purl.bioontology.org/ontology/UATC/G04BD12	mirabegron
+http://nl.dbpedia.org/resource/Yohimbine	yohimbine	G04BE04	http://purl.bioontology.org/ontology/UATC/G04BE04	yohimbine
+http://nl.dbpedia.org/resource/Tadalafil	tadalafil	G04BE08	http://purl.bioontology.org/ontology/UATC/G04BE08	tadalafil
+http://nl.dbpedia.org/resource/Vardenafil	vardenafil	G04BE09	http://purl.bioontology.org/ontology/UATC/G04BE09	vardenafil
+http://nl.dbpedia.org/resource/Tigecycline	tigecycline	J01AA12	http://purl.bioontology.org/ontology/UATC/J01AA12	tigecycline
+http://nl.dbpedia.org/resource/Sulbactam	sulbactam	J01CG01	http://purl.bioontology.org/ontology/UATC/J01CG01	sulbactam
+http://nl.dbpedia.org/resource/Tazobactam	tazobactam	J01CG02	http://purl.bioontology.org/ontology/UATC/J01CG02	tazobactam
+http://nl.dbpedia.org/resource/Cefotetan	cefotetan	J01DC05	http://purl.bioontology.org/ontology/UATC/J01DC05	cefotetan
+http://nl.dbpedia.org/resource/Aztreonam	aztreonam	J01DF01	http://purl.bioontology.org/ontology/UATC/J01DF01	aztreonam
+http://nl.dbpedia.org/resource/Ertapenem	ertapenem	J01DH03	http://purl.bioontology.org/ontology/UATC/J01DH03	ertapenem
+http://nl.dbpedia.org/resource/Doripenem	doripenem	J01DH04	http://purl.bioontology.org/ontology/UATC/J01DH04	doripenem
+http://nl.dbpedia.org/resource/Foscarnet	foscarnet	J05AD01	http://purl.bioontology.org/ontology/UATC/J05AD01	foscarnet
+http://nl.dbpedia.org/resource/Tenofovir_disoproxil	tenofovir disoproxil	J05AF07	http://purl.bioontology.org/ontology/UATC/J05AF07	tenofovir disoproxil
+http://nl.dbpedia.org/resource/Tenofovir_disoproxil	tenofovir disoproxil	J05AF07	http://purl.bioontology.org/ontology/UATC/J05AF07	tenofovir disoproxil
+http://nl.dbpedia.org/resource/Emtricitabine	emtricitabine	J05AF09	http://purl.bioontology.org/ontology/UATC/J05AF09	emtricitabine
+http://nl.dbpedia.org/resource/Raltegravir	raltegravir	J05AX08	http://purl.bioontology.org/ontology/UATC/J05AX08	raltegravir
+http://nl.dbpedia.org/resource/Elvitegravir	elvitegravir	J05AX11	http://purl.bioontology.org/ontology/UATC/J05AX11	elvitegravir
+http://nl.dbpedia.org/resource/Elvitegravir	elvitegravir	J05AX11	http://purl.bioontology.org/ontology/UATC/J05AX11	elvitegravir
+http://nl.dbpedia.org/resource/Dasatinib	dasatinib	L01XE06	http://purl.bioontology.org/ontology/UATC/L01XE06	dasatinib
+http://nl.dbpedia.org/resource/Lapatinib	lapatinib	L01XE07	http://purl.bioontology.org/ontology/UATC/L01XE07	lapatinib
+http://nl.dbpedia.org/resource/Miltefosine	miltefosine	L01XX09	http://purl.bioontology.org/ontology/UATC/L01XX09	miltefosine
+http://nl.dbpedia.org/resource/Mitotane	mitotane	L01XX23	http://purl.bioontology.org/ontology/UATC/L01XX23	mitotane
+http://nl.dbpedia.org/resource/Anagrelide	anagrelide	L01XX35	http://purl.bioontology.org/ontology/UATC/L01XX35	anagrelide
+http://nl.dbpedia.org/resource/Everolimus	everolimus	L04AA18	http://purl.bioontology.org/ontology/UATC/L04AA18	everolimus
+http://nl.dbpedia.org/resource/Fingolimod	fingolimod	L04AA27	http://purl.bioontology.org/ontology/UATC/L04AA27	fingolimod
+http://nl.dbpedia.org/resource/Rofecoxib	rofecoxib	M01AH02	http://purl.bioontology.org/ontology/UATC/M01AH02	rofecoxib
+http://nl.dbpedia.org/resource/Parecoxib	parecoxib	M01AH04	http://purl.bioontology.org/ontology/UATC/M01AH04	parecoxib
+http://nl.dbpedia.org/resource/Nimesulide	nimesulide	M01AX17	http://purl.bioontology.org/ontology/UATC/M01AX17	nimesulide
+http://nl.dbpedia.org/resource/Pancuronium	pancuronium	M03AC01	http://purl.bioontology.org/ontology/UATC/M03AC01	pancuronium
+http://nl.dbpedia.org/resource/Tilidine	tilidine	N02AX01	http://purl.bioontology.org/ontology/UATC/N02AX01	tilidine
+http://nl.dbpedia.org/resource/Tapentadol	tapentadol	N02AX06	http://purl.bioontology.org/ontology/UATC/N02AX06	tapentadol
+http://nl.dbpedia.org/resource/Oxcarbazepine	oxcarbazepine	N03AF02	http://purl.bioontology.org/ontology/UATC/N03AF02	oxcarbazepine
+http://nl.dbpedia.org/resource/Zonisamide	zonisamide	N03AX15	http://purl.bioontology.org/ontology/UATC/N03AX15	zonisamide
+http://nl.dbpedia.org/resource/Lacosamide	lacosamide	N03AX18	http://purl.bioontology.org/ontology/UATC/N03AX18	lacosamide
+http://nl.dbpedia.org/resource/Rasagiline	rasagiline	N04BD02	http://purl.bioontology.org/ontology/UATC/N04BD02	rasagiline
+http://nl.dbpedia.org/resource/Triflupromazine	triflupromazine	N05AA05	http://purl.bioontology.org/ontology/UATC/N05AA05	triflupromazine
+http://nl.dbpedia.org/resource/Pimozide	pimozide	N05AG02	http://purl.bioontology.org/ontology/UATC/N05AG02	pimozide
+http://nl.dbpedia.org/resource/Penfluridol	penfluridol	N05AG03	http://purl.bioontology.org/ontology/UATC/N05AG03	penfluridol
+http://nl.dbpedia.org/resource/Amisulpride	amisulpride	N05AL05	http://purl.bioontology.org/ontology/UATC/N05AL05	amisulpride
+http://nl.dbpedia.org/resource/Prazepam	prazepam	N05BA11	http://purl.bioontology.org/ontology/UATC/N05BA11	prazepam
+http://nl.dbpedia.org/resource/Clotiazepam	clotiazepam	N05BA21	http://purl.bioontology.org/ontology/UATC/N05BA21	clotiazepam
+http://nl.dbpedia.org/resource/Triazolam	triazolam	N05CD05	http://purl.bioontology.org/ontology/UATC/N05CD05	triazolam
+http://nl.dbpedia.org/resource/Ramelteon	ramelteon	N05CH02	http://purl.bioontology.org/ontology/UATC/N05CH02	ramelteon
+http://nl.dbpedia.org/resource/Nortriptyline	nortriptyline	N06AA10	http://purl.bioontology.org/ontology/UATC/N06AA10	nortriptyline
+http://nl.dbpedia.org/resource/Iproniazide	iproniazide	N06AF05	http://purl.bioontology.org/ontology/UATC/N06AF05	iproniazide
+http://nl.dbpedia.org/resource/Bupropion	bupropion	N06AX12	http://purl.bioontology.org/ontology/UATC/N06AX12	bupropion
+http://nl.dbpedia.org/resource/Agomelatine	agomelatine	N06AX22	http://purl.bioontology.org/ontology/UATC/N06AX22	agomelatine
+http://nl.dbpedia.org/resource/Amfetamine	amfetamine	N06BA01	http://purl.bioontology.org/ontology/UATC/N06BA01	amfetamine
+http://nl.dbpedia.org/resource/Pemoline	pemoline	N06BA05	http://purl.bioontology.org/ontology/UATC/N06BA05	pemoline
+http://nl.dbpedia.org/resource/Atomoxetine	atomoxetine	N06BA09	http://purl.bioontology.org/ontology/UATC/N06BA09	atomoxetine
+http://nl.dbpedia.org/resource/Adrafinil	adrafinil	N06BX17	http://purl.bioontology.org/ontology/UATC/N06BX17	adrafinil
+http://nl.dbpedia.org/resource/Varenicline	varenicline	N07BA03	http://purl.bioontology.org/ontology/UATC/N07BA03	varenicline
+http://nl.dbpedia.org/resource/Disulfiram	disulfiram	N07BB01	http://purl.bioontology.org/ontology/UATC/N07BB01	disulfiram
+http://nl.dbpedia.org/resource/Atovaquone	atovaquone	P01AX06	http://purl.bioontology.org/ontology/UATC/P01AX06	atovaquone
+http://nl.dbpedia.org/resource/Chloroquine	chloroquine	P01BA01	http://purl.bioontology.org/ontology/UATC/P01BA01	chloroquine
+http://nl.dbpedia.org/resource/Proguanil	proguanil	P01BB01	http://purl.bioontology.org/ontology/UATC/P01BB01	proguanil
+http://nl.dbpedia.org/resource/Pyrimethamine	pyrimethamine	P01BD01	http://purl.bioontology.org/ontology/UATC/P01BD01	pyrimethamine
+http://nl.dbpedia.org/resource/Melarsoprol	melarsoprol	P01CD01	http://purl.bioontology.org/ontology/UATC/P01CD01	melarsoprol
+http://nl.dbpedia.org/resource/Praziquantel	praziquantel	P02BA01	http://purl.bioontology.org/ontology/UATC/P02BA01	praziquantel
+http://nl.dbpedia.org/resource/Oxymetazoline	oxymetazoline	R01AA05	http://purl.bioontology.org/ontology/UATC/R01AA05	oxymetazoline
+http://nl.dbpedia.org/resource/Xylometazoline	xylometazoline	R01AA07	http://purl.bioontology.org/ontology/UATC/R01AA07	xylometazoline
+http://nl.dbpedia.org/resource/Tramazoline	tramazoline	R01AA09	http://purl.bioontology.org/ontology/UATC/R01AA09	tramazoline
+http://nl.dbpedia.org/resource/Clenbuterol	clenbuterol	R03AC14	http://purl.bioontology.org/ontology/UATC/R03AC14	clenbuterol
+http://nl.dbpedia.org/resource/Ambroxol	ambroxol	R05CB06	http://purl.bioontology.org/ontology/UATC/R05CB06	ambroxol
+http://nl.dbpedia.org/resource/Thebacon	thebacon	R05DA10	http://purl.bioontology.org/ontology/UATC/R05DA10	thebacon
+http://nl.dbpedia.org/resource/Clobutinol	clobutinol	R05DB03	http://purl.bioontology.org/ontology/UATC/R05DB03	clobutinol
+http://nl.dbpedia.org/resource/Cloperastine	cloperastine	R05DB21	http://purl.bioontology.org/ontology/UATC/R05DB21	cloperastine
+http://nl.dbpedia.org/resource/Levocetirizine	levocetirizine	R06AE09	http://purl.bioontology.org/ontology/UATC/R06AE09	levocetirizine
+http://nl.dbpedia.org/resource/Trifluridine	trifluridine	S01AD02	http://purl.bioontology.org/ontology/UATC/S01AD02	trifluridine
+http://nl.dbpedia.org/resource/Tafluprost	tafluprost	S01EE05	http://purl.bioontology.org/ontology/UATC/S01EE05	tafluprost
+http://nl.dbpedia.org/resource/Azelastine	azelastine	S01GX07	http://purl.bioontology.org/ontology/UATC/S01GX07	azelastine
+http://nl.dbpedia.org/resource/Sugammadex	sugammadex	V03AB35	http://purl.bioontology.org/ontology/UATC/V03AB35	sugammadex
+http://nl.dbpedia.org/resource/Colestilan	colestilan	V03AE06	http://purl.bioontology.org/ontology/UATC/V03AE06	colestilan
+http://nl.dbpedia.org/resource/Mesna	mesna	V03AF01	http://purl.bioontology.org/ontology/UATC/V03AF01	mesna
+http://nl.dbpedia.org/resource/Cobicistat	cobicistat	V03AX03	http://purl.bioontology.org/ontology/UATC/V03AX03	cobicistat
+http://nl.dbpedia.org/resource/Cobicistat	cobicistat	V03AX03	http://purl.bioontology.org/ontology/UATC/V03AX03	cobicistat
+http://nl.dbpedia.org/resource/Iohexol	iohexol	V08AB02	http://purl.bioontology.org/ontology/UATC/V08AB02	iohexol
+http://nl.dbpedia.org/resource/Iodixanol	iodixanol	V08AB09	http://purl.bioontology.org/ontology/UATC/V08AB09	iodixanol
+http://nl.dbpedia.org/resource/Gadobutrol	gadobutrol	V08CA09	http://purl.bioontology.org/ontology/UATC/V08CA09	gadobutrol
+http://nl.dbpedia.org/resource/Florbetapir_(18F)	florbetapir (18f)	V09AX05	http://purl.bioontology.org/ontology/UATC/V09AX05	florbetapir (18F)
+http://nl.dbpedia.org/resource/Metronidazol	metronidazol	A01AB17	http://purl.bioontology.org/ontology/UATC/A01AB17	metronidazole
+http://nl.dbpedia.org/resource/Triamcinolon	triamcinolon	A01AC01	http://purl.bioontology.org/ontology/UATC/A01AC01	triamcinolone
