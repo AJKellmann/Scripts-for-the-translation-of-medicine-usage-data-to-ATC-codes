@@ -6,6 +6,16 @@ import pandas as pd
 import csv
 import sys
 
+#Description:
+#This file is supposed to match the SORTA results with the related ATC codes.
+#Therefore it uses the SORTA results and the file rainbowtable_all.tsv.
+#rainbowtable_all.tsv contains the relationship between the URIs of the ontology used in SORTA to the ATC codes
+#There are two ways how to represent multiple ATC codes per drug:
+#Each ATC code in a separate line, duplicating the rest of the line for multiple ATC codes (long format)
+#Or all ATC codes in the same line with a separator.
+#This file generates the long format.
+
+
 #source for the tidy split function: https://stackoverflow.com/questions/12680754/split-explode-pandas-dataframe-string-entry-to-separate-rows/39946744
 def tidy_split(df, column, sep='|', keep=False):
     """
@@ -59,7 +69,7 @@ if len(sys.argv)>1:
     #Read the file "rainbowtable_all_long". It contains the link between then ATC codes and the selfmade URIs for the drugs.
     rainbowtable = pd.read_csv('rainbowtable_all.tsv', usecols=['ontologyTermIRI', 'Atccode'], names=['ontologyTermIRI', 'Atccode'], sep="\t")
 
-    #Group all the ATC codes of the rainbowtable to their URI 
+    #Group all the ATC codes of the rainbowtable to their URI
     rainbowtable=rainbowtable.groupby('ontologyTermIRI')['Atccode'].apply(', '.join).reset_index(name='Atccode')
     #print(rainbowtable)
     #Look up all the ATC codes for the output from SORTA
