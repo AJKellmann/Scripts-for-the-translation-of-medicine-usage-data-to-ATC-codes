@@ -1,6 +1,5 @@
-# -*- coding: cp1252 -*-
 __author__ = "alexander kellmann"
-__license__ = "Apache 2.0"
+__license__ = "LGPL-3.0 License"
 __date__ = "05/06/2020"
 
 # Description:
@@ -13,7 +12,7 @@ __date__ = "05/06/2020"
 
 from rdflib import *
 import hashlib
-#File öffnen
+#File Ã¶ffnen
 fo = open("dbpedia_corrected.tsv")
 #Zeilenweise einlesen:
 with fo as f:
