@@ -1,6 +1,6 @@
 # -*- coding: cp1252 -*-
 __author__ = "alexander kellmann"
-__license__ = "Apache 2.0"
+__license__ = "LGPL-3.0 License"
 __date__ = "11/08/2020"
 
 # Description:
