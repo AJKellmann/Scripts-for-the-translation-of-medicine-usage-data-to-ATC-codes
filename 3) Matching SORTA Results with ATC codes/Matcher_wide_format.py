@@ -1,6 +1,7 @@
 # -*- coding: cp1252 -*-
 __author__ = "alexander kellmann"
 __date__ = "04/11/2020"
+__license__ = "LGPL-3.0 License"
 
 import pandas as pd
 import csv
