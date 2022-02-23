@@ -2,7 +2,7 @@
 #This version uses pandas instead of arrays.
 #It should be capable of reading 5 or 10 lines for question 24A10TXT without of manual adjustment of the code.
 __author__ = "alexander kellmann"
-__license__ = "Apache 2.0"
+__license__ = "LGPL-3.0 License"
 __date__ = "15/05/2020"
 
 # Description:
@@ -16,7 +16,7 @@ __date__ = "15/05/2020"
 # - adding missing spaces after commas
 # - removal/escaping of special and escape characters (tabs, quotes, brackets, semicolon, "--")
 # - a removal of Dutch stop words by using the NLP-toolkit 
-# - a removal of manufacturers names, descriptions and fill words (e.g., ìelke dagî, ìplusî) based on a list of terms
+# - a removal of manufacturers names, descriptions and fill words (e.g., ‚Äúelke dag‚Äù, ‚Äúplus‚Äù) based on a list of terms
 # - removal of dosage information, concentrations, volumes (by using regular expressions)
 #   (Using regular expressions on free text may lead to unwanted changes !!!)
 #
@@ -214,7 +214,7 @@ class Extractor:
             df_qn['COVID24A'+str(question)+"TXT"].replace(r'[\)\/\\,]$', ' ', regex=True, inplace=True)
             df_qn['COVID24A'+str(question)+"TXT"].replace(r'(^-( ?)*$)|(?!-)\W+', ' ', regex=True, inplace=True)
             df_qn['COVID24A'+str(question)+"TXT"]= df_qn['COVID24A'+str(question)+"TXT"].str.strip()
-            pat=r'^(\W*)?[a-zA-Z √¢]{1,2}?(\W*)?$'
+            pat=r'^(\W*)?[a-zA-Z √É¬¢]{1,2}?(\W*)?$'
             df_qn["COVID24A"+str(question)+"TXT"] = df_qn['COVID24A'+str(question)+"TXT"].str.replace(pat, '')
 
             #Remove rows with empty values
